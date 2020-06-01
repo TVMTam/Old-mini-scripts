@@ -1,0 +1,74 @@
+INITIAL "COWS AND BULLS"...
+PASS generated!
+Your guess? - 1234
+Checking 1234 ...
+
+0 Cow(s)  2 Bull(s)
+
+Your guess? - 1212
+Checking 1212 ...
+
+0 Cow(s)  0 Bull(s)
+
+Your guess? - 3434
+Checking 3434 ...
+
+0 Cow(s)  0 Bull(s)
+
+Your guess? - 3434
+Checking 3434 ...
+
+0 Cow(s)  0 Bull(s)
+
+Your guess? - 1234
+Checking 1234 ...
+
+0 Cow(s)  2 Bull(s)
+
+Your guess? - 2156
+Checking 2156 ...
+
+3 Cow(s)  0 Bull(s)
+
+Your guess? - 2111
+Checking 2111 ...
+
+2 Cow(s)  0 Bull(s)
+
+Your guess? - 2155
+Checking 2155 ...
+
+3 Cow(s)  0 Bull(s)
+
+Your guess? - 2154
+Checking 2154 ...
+
+3 Cow(s)  0 Bull(s)
+
+Your guess? - 2157
+Checking 2157 ...
+
+3 Cow(s)  0 Bull(s)
+
+Your guess? - 2155
+Checking 2155 ...
+
+3 Cow(s)  0 Bull(s)
+
+Your guess? - 2111
+Checking 2111 ...
+
+2 Cow(s)  0 Bull(s)
+
+Your guess? - 2152
+Checking 2152 ...
+
+3 Cow(s)  0 Bull(s)
+
+Your guess? - 2158
+Checking 2158 ...
+
+4 Cow(s)  0 Bull(s)
+
+CONGRATULATION!
+You made it after 14 tries
